@@ -13,7 +13,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Blending technology, design and creativity and exploring terraform!
+sub_heading: Blending technology, design and creativity and exploring terraform! And
+  IAM policies.
 textline: WeTransfer
 hero_button:
   text: Learn more
