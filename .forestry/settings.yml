@@ -9,10 +9,10 @@ sections:
 - type: directory
   path: _newsroom
   label: Newsroom articles
-  create: all
+  create: documents
   match: "*"
   templates:
-  - project
+  - post
 - type: jekyll-posts
   label: Blog posts
   create: all
