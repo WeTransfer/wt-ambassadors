@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Wetransfer
+short_title: Wetransfer
+description: Wetransfer newsroom and blog website
 baseurl:
 permalink: "/:path/"
 defaults:
