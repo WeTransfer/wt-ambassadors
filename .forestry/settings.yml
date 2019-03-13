@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: _projects
+  path: _newsroom
   label: Newsroom articles
   create: all
   match: "*"
