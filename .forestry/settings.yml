@@ -26,7 +26,7 @@ sections:
   - person
 - type: directory
   path: _projects
-  label: Projects
+  label: Newsroom articles
   create: all
   match: "*"
   templates:
