@@ -13,4 +13,5 @@ menu:
     identifier: _projects
     weight: 2
     title: Newsroom
+
 ---
